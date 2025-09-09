@@ -15,7 +15,8 @@
 - Dara
 - Roland (TA)
 
-* [[/assets/000-installing-scala.pdf][Today]]/Checkpoints
+* [[./assets/000-installing-scala.pdf
+][Today]]/Checkpoints
 
 - Clone the test repo
 - Make ~sbt run~ work (in the terminal)
