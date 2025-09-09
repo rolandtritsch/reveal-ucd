@@ -17,7 +17,7 @@
 
 * [[./assets/000-installing-scala.pdf][Today]]/Checkpoints
 
-- Clone the test repo
+- Clone the lab repo
 - Make ~sbt run~ work (in the terminal)
 - Make ~sbt test~ work (in/with Intelij)
 - Find and fix the easter-egg
