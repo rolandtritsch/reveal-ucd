@@ -1,5 +1,5 @@
 #+title: UCD 30950
-#+subtitle: Lab 1 - Setup
+#+subtitle: Lab 000 - Setup
 #+date: <2025-09-09>
 #+author: Roland Tritsch
 #+email: roland@tritsch.email
@@ -15,7 +15,7 @@
 - Dara
 - Roland (TA)
 
-* [[/assets/000-installing-scala.pdf][Today]]
+* [[/assets/000-installing-scala.pdf][Today]]/Checkpoints
 
 - Clone the test repo
 - Make ~sbt run~ work (in the terminal)
