@@ -10,10 +10,19 @@
 #+options: toc:nil num:nil
 
 * Demonstrators
+:PROPERTIES:
+:reveal_extra_attr: data-visibility="hidden"
+:END:
 
 - Aon
 - Dara
 - Roland (TA)
+
+* Demonstrators
+
+- Alice
+- Roland (TA)
+- Shlok
 
 * [[./assets/000-installing-scala.pdf][Today]]/Checkpoints
 
