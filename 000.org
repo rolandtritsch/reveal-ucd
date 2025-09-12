@@ -5,7 +5,7 @@
 #+email: roland@tritsch.email
 #+reveal_theme: beige
 #+reveal_init_options: width:"80%", autoSlide:10000, loop:true, autoSlideStoppable:true
-#+reveal_title_slide: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>09-Sep-2025</h3>
+#+reveal_title_slide: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>09/12-Sep-2025</h3>
 #+options: title:nil author:nil email:nil date:nil timestamp:nil
 #+options: toc:nil num:nil
 
