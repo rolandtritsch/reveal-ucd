@@ -1,0 +1,42 @@
+#+title: UCD 30950
+#+subtitle: Lab 001 - ???
+#+date: <2025-09-16>
+#+author: Roland Tritsch
+#+email: roland@tritsch.email
+#+reveal_theme: beige
+#+reveal_init_options: width:"80%", autoSlide:10000, loop:true, autoSlideStoppable:true
+#+reveal_title_slide: <h1 class=title>%t</h1><h3 class=title>%s</h3><h3 class=date>16/19-Sep-2025</h3>
+#+options: title:nil author:nil email:nil date:nil timestamp:nil
+#+options: toc:nil num:nil
+
+* Lab Rules
+
+- Be on-time
+- No food in the lab
+- Do not forget to sign-in
+- Ask questions early (not 10 mins before the end of the lab)
+- The demonstrators will not solve the problem for you, but will help you to develop ideas how to analyse (and solve) the problem
+
+* Demonstrators
+:PROPERTIES:
+:reveal_extra_attr: data-visibility="hidden"
+:END:
+
+- Aon
+- Dara
+- Roland (TA)
+
+* Demonstrators
+:PROPERTIES:
+#:reveal_extra_attr: data-visibility="hidden"
+:END:
+
+- Alice
+- Roland (TA)
+- Shlok
+
+* Today/Checkpoints
+
+- ???
+- ???
+- ???
