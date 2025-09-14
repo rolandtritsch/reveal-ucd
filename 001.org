@@ -1,5 +1,5 @@
 #+title: UCD 30950
-#+subtitle: Lab 001 - ???
+#+subtitle: Lab 001 - Control Structures
 #+date: <2025-09-16>
 #+author: Roland Tritsch
 #+email: roland@tritsch.email
@@ -16,6 +16,10 @@
 - Do not forget to sign-in
 - Ask questions early (not 10 mins before the end of the lab)
 - The demonstrators will not solve the problem for you, but will help you to develop ideas how to analyse (and solve) the problem
+
+* BAD Joke of the week
+
+How do you call a computer that can sing?
 
 * Demonstrators
 :PROPERTIES:
