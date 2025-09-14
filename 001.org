@@ -41,6 +41,11 @@ How do you call a computer that can sing?
 
 * Today/Checkpoints
 
-- ???
-- ???
-- ???
+- TODO 1: Types
+- TODO 2: Types
+- TODO 3: Value
+- TODO 4: Compilation
+- TODO 5: Refactor
+- TODO 6: Evaluation
+- TODO 7: Recursion
+- TODO 8: Annotations
