@@ -14,16 +14,17 @@
 - Be on-time
 - No food in the lab
 - Do not forget to sign-in
+- Commit often and early
 - Ask questions early (not 10 mins before the end of the lab)
 - The demonstrators will not solve the problem for you, but will help you to develop ideas how to analyse (and solve) the problem
 
-* BAD Joke of the week
+* Dad-Joke of the week
 
 How do you call a computer that can sing?
 
 * Demonstrators
 :PROPERTIES:
-:reveal_extra_attr: data-visibility="hidden"
+:reveal_extra_attr: data-visibility="visible"
 :END:
 
 - Aon
@@ -32,7 +33,7 @@ How do you call a computer that can sing?
 
 * Demonstrators
 :PROPERTIES:
-#:reveal_extra_attr: data-visibility="hidden"
+:reveal_extra_attr: data-visibility="hidden"
 :END:
 
 - Alice
