@@ -37,6 +37,7 @@ How do you call a computer that can sing?
 :END:
 
 - Alice
+- Minh
 - Roland (TA)
 - Shlok
 
