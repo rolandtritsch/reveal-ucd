@@ -1,5 +1,5 @@
 #+title: UCD 30950
-#+subtitle: Lab 001 - Control Structures
+#+subtitle: Lab 004 - Assignment
 #+date: <2025-10-07>
 #+author: Roland Tritsch
 #+email: roland@tritsch.email
